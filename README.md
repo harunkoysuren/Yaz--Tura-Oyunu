@@ -1,3 +1,3 @@
 Yazı Tura Oyunu 
 
-LİNK : 
+LİNK : https://harunkoysuren.github.io/Yaz--Tura-Oyunu/
